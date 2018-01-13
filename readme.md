@@ -38,6 +38,13 @@ npm install
 cd react-native-game/server
 node server.js
 ````
+## Pre Installation Errors
+
+On calling "node server.js" command you might get this error "Error: Cannot find module 'express'". Use
+
+````
+npm install express
+````
 
 ## React Native Requirements and Getting Started
 
